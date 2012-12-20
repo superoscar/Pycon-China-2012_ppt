@@ -1,2 +1,1 @@
-Pycon China 2012 
-the files of ppt and others
+Pycon China 2012 上的演讲者及ppt
